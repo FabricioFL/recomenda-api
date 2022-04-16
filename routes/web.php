@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return ['message' => 'this endpoint is invalid, please check the documetation at : {fodase}'];
+    return ['message' => 'this endpoint is invalid, please check the documetation at https://github.com/FabricioFL/recomenda-api'];
 });

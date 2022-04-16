@@ -82,7 +82,7 @@
 ### resposta esperada:
 ```json
     {
-        "id": int,
+        "id": 1,
         "title": "nome da musica",
         "reference": "link da musica",
         "category": "categoria da musica",
@@ -101,7 +101,7 @@
 ### resposta esperada:
 ```json
     {
-        "id": int,
+        "id": 1,
         "title": "nome da musica",
         "reference": "link da musica",
         "category": "categoria da musica",
